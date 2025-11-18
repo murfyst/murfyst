@@ -22,9 +22,7 @@ I’m passionate about crafting smooth, scalable mobile experiences and would lo
 <a href="https://www.mongodb.com/"> <img src="https://miro.medium.com/v2/resize:fit:679/1*m2M7BVJ5XC96hpl_lgKIkg.gif" alt="Mongo DB" height="40" /> </a>
 
 ---
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=murfyst&theme=calm_pink"/>   
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murfyst&theme=calm_pink&layout=donut"/>
  
 
