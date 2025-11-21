@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www.instagram.com/murphystt/">Murat</a></h2>
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/murfyst/">Murat</a></h2>
 <p>I’m an experienced React Native Developer with over five years of hands-on experience building high-performance mobile applications for iOS and Android. My background includes leading end-to-end app development, improving UX performance, and implementing CI/CD pipelines to deliver reliable, user-focused solutions.
 
 I’m passionate about crafting smooth, scalable mobile experiences and would love the opportunity to contribute my expertise to your team.
